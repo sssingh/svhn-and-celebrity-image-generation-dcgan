@@ -1,5 +1,5 @@
 # Street View House Numbers and Celebrity Faces Generation using DC-GAN 
-Generate fake images of Street View House Numbers (SVHN) [part-1] and Celebrity Faces [part-2] using Deep Convolutional Generative Adversarial Network (DC-GAN)
+Generate fake images of Street View House Numbers (SVHN) [part-1] and Large Scale CelebFaces Attributes (CelebA) [part-2] using Deep Convolutional Generative Adversarial Network (DC-GAN)
 
 <img src="https://github.com/sssingh/svhn-and-celebrity-image-generation-dcgan/blob/master/assets/svhn-cebeba-caption-pic.png?raw=true" width="800" height="400">
 
